@@ -5,3 +5,5 @@ Some functionalities of python that looks extra but are crucial for developers
 1) https://docs.python.org/3/c-api/iterator.html
 2) https://wiki.python.org/moin/Generators
 3) https://peps.python.org/pep-0318/
+4) https://docs.python.org/3/library/sqlite3.html
+5) https://docs.python.org/3/library/logging.html
